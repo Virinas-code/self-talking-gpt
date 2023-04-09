@@ -6,6 +6,14 @@
 
 This is a simple script, it's not complete but it works.
 
+### Usage
+
+```shell
+python -m gpttogpt [broken]
+```
+
+Add the `broken` argument to get broken outputs (really weird).
+
 ### Example
 
 ChatGPT:

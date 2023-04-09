@@ -33,7 +33,7 @@ def broken() -> None:
 
     Outputs random crap.
     """
-    prompt: str = input("> ")
+    prompt: str = input("Initial prompt: ")
     question: str = (
         prompt
         if prompt

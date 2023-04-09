@@ -16,7 +16,7 @@ if __name__ == "__main__":
         )
         sys.exit(1)
 
-    if len(sys.argv) == 0:
+    if len(sys.argv) == 1:
         main()
     elif sys.argv[1] == "broken":
         broken()
